@@ -24,6 +24,7 @@
  - [Battery Protection 2](https://www.youtube.com/watch?v=C4nn4R7A7OI&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=3)
  - [Battery Protection 3](https://www.youtube.com/watch?v=vkpfrT0fSfA&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=4)
  - [Battery Protection 4](https://www.youtube.com/watch?v=19OAWsDpa8U)
+ - [Battery Protection 5](https://www.youtube.com/watch?v=8eItvOuDRjw)
 
 ## Phase Five
 -[Cell MATLAP Model](https://drive.google.com/drive/u/0/folders/1m_nvFiPVZbcD2-nH_WNMUvZG3e-Vz_w5)
