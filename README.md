@@ -30,3 +30,8 @@
 
 ## Phase six
 -[Charger](https://www.youtube.com/watch?v=MDnwPqt4E8s&list=PLmwVUXLoN7y48IU8XgTbMgiC7gOaksOYX&index=6)
+
+# Important youtube Channels
+- [DecibelsLab](https://www.youtube.com/@DecibelsLab)
+- [staflsystems](https://www.youtube.com/@staflsystems)
+- [Taqa-BelArabi](https://www.youtube.com/@Taqa-BelArabi)
