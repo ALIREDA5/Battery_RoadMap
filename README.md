@@ -20,8 +20,8 @@
 
    
  ## Phase Four
- - [Battery Protection 1: BMS [3/6] Cell Balancing & Battery Control](https://www.youtube.com/watch?v=tDsOrfDu-us&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=12)
- - [Battery Protection 2: BMS [1/6] Important Fundamentals & Functions](https://www.youtube.com/watch?v=C4nn4R7A7OI&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=3)
+ - [Battery Protection 1: BMS [1/6] Important Fundamentals & Functions](https://www.youtube.com/watch?v=C4nn4R7A7OI&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=3)
+ - [Battery Protection 2: BMS [3/6] Cell Balancing & Battery Control](https://www.youtube.com/watch?v=tDsOrfDu-us&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=12)
  - [Battery Protection 3: Safety [1/5] Thermal Runaway](https://www.youtube.com/watch?v=vkpfrT0fSfA&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=4)
  - [Battery Protection 4: Safe Operating Envelope for Lithium Ion Battery Systems](https://www.youtube.com/watch?v=19OAWsDpa8U)
  - [Battery Protection 5: Battery Management System Safety and Fault Management for Lithium Ion Batteries](https://www.youtube.com/watch?v=8eItvOuDRjw)
