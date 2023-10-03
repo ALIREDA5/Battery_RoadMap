@@ -1,36 +1,38 @@
 # Battery_RoadMap
 ## Phase One 
-- [cell fundamentals 1:Li ion Battery internal Structure](https://www.youtube.com/watch?v=ehLZRupZxL8&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=7)
-- [cell fundamentals2 :Battery Charge & Discharge ](https://www.youtube.com/watch?v=terb6EDi_m0&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=8)
-- [cell fundamentals 3:Li ion Battery Cells types & Chemistry](https://www.youtube.com/watch?v=CCuxWQ0yDy8&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=9)
-- [cell fundamentals 4:cell Formats ](https://www.youtube.com/watch?v=K4k8dgfe2Xo&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=6)
+- [cell fundamentals 1: Li ion Battery internal Structure](https://www.youtube.com/watch?v=ehLZRupZxL8&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=7)
+- [cell fundamentals 2: Battery Charge & Discharge ](https://www.youtube.com/watch?v=terb6EDi_m0&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=8)
+- [cell fundamentals 3: Li ion Battery Cells types & Chemistry](https://www.youtube.com/watch?v=CCuxWQ0yDy8&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=9)
+- [cell fundamentals 4: cell Formats ](https://www.youtube.com/watch?v=K4k8dgfe2Xo&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=6)
 
 ## Phase Two
- - [Lithium-ion cells 1:Certified Bootcamp on Li-ion Cell Chemistries & Characteristics Day 1](https://www.youtube.com/watch?v=5q3I9azUXBU)
-- [Lithium-ion cells 2:Day 2](https://www.youtube.com/watch?v=uqm_Qk8cRpE)
+ - [Lithium-ion cells 1: Certified Bootcamp on Li-ion Cell Chemistries & Characteristics Day 1](https://www.youtube.com/watch?v=5q3I9azUXBU)
+- [Lithium-ion cells 2: Day 2](https://www.youtube.com/watch?v=uqm_Qk8cRpE)
 
  ## Phase Three
- - [Battery fundamentals 1:BMS [2/6] State of Charge](https://www.youtube.com/watch?v=e92XkbRgHyU&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=11)
+ - [Battery fundamentals 1: BMS [2/6] State of Charge](https://www.youtube.com/watch?v=e92XkbRgHyU&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=11)
 - [Battery fundamentals 2: BMS [4/6] Battery Nominal vs Usable Capacity](https://www.youtube.com/watch?v=NxUct6CRANs&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=13)
 - [Battery fundamentals 3: Battery Aging [1 of 5]- Aging Mechanisms](https://www.youtube.com/watch?v=078SOLDplRo&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=18)
-- [Battery fundamentals 4:Battery Aging [2 of 5]- Aging Mechanisms ](https://www.youtube.com/watch?v=kPn1KyBZYQM&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=19)
+- [Battery fundamentals 4: Battery Aging [2 of 5]- Aging Mechanisms ](https://www.youtube.com/watch?v=kPn1KyBZYQM&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=19)
 - [Battery fundamentals 5: Battery Aging [3 of 5] - Cycling Aging ](https://www.youtube.com/watch?v=k7Hn4n7xlzc&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=20)
-- [Battery fundamentals 6:Battery Aging [4 of 5] - Cycling Aging](https://www.youtube.com/watch?v=0JXENpK8N20&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=21)
-- [Battery fundamentals 7:Electric Vehicle Battery pack calculation using Microsoft Excel](https://www.youtube.com/watch?v=Nn-fMyMd7a8&list=PLmwVUXLoN7y48IU8XgTbMgiC7gOaksOYX&index=1)
+- [Battery fundamentals 6: Battery Aging [4 of 5] - Cycling Aging](https://www.youtube.com/watch?v=0JXENpK8N20&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=21)
+- [Battery fundamentals 7: Electric Vehicle Battery pack calculation using Microsoft Excel](https://www.youtube.com/watch?v=Nn-fMyMd7a8&list=PLmwVUXLoN7y48IU8XgTbMgiC7gOaksOYX&index=1)
 
    
  ## Phase Four
  - [Battery Protection 1: BMS [3/6] Cell Balancing & Battery Control](https://www.youtube.com/watch?v=tDsOrfDu-us&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=12)
- - [Battery Protection 2:BMS [1/6] Important Fundamentals & Functions](https://www.youtube.com/watch?v=C4nn4R7A7OI&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=3)
- - [Battery Protection 3:Safety [1/5] Thermal Runaway](https://www.youtube.com/watch?v=vkpfrT0fSfA&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=4)
- - [Battery Protection 4:Safe Operating Envelope for Lithium Ion Battery Systems](https://www.youtube.com/watch?v=19OAWsDpa8U)
- - [Battery Protection 5:Battery Management System Safety and Fault Management for Lithium Ion Batteries](https://www.youtube.com/watch?v=8eItvOuDRjw)
+ - [Battery Protection 2: BMS [1/6] Important Fundamentals & Functions](https://www.youtube.com/watch?v=C4nn4R7A7OI&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=3)
+ - [Battery Protection 3: Safety [1/5] Thermal Runaway](https://www.youtube.com/watch?v=vkpfrT0fSfA&list=PLdiqVTqaQjOnzPYJHwIEPLlL-WlzKYyn7&index=4)
+ - [Battery Protection 4: Safe Operating Envelope for Lithium Ion Battery Systems](https://www.youtube.com/watch?v=19OAWsDpa8U)
+ - [Battery Protection 5: Battery Management System Safety and Fault Management for Lithium Ion Batteries](https://www.youtube.com/watch?v=8eItvOuDRjw)
+ - Battery Protection 6: Search for IMD (Insulation Monitoring Device)
+ - Battery Protection 7: Search for Fuses and Circuit Breakers
 
 ## Phase Five
--[Cell MATLAP Model](https://drive.google.com/drive/u/0/folders/1m_nvFiPVZbcD2-nH_WNMUvZG3e-Vz_w5)
+- [Cell MATLAP Model](https://drive.google.com/drive/u/0/folders/1m_nvFiPVZbcD2-nH_WNMUvZG3e-Vz_w5)
 
 ## Phase six
--[Charger:EV chargers | Foundation to EV subsystems](https://www.youtube.com/watch?v=MDnwPqt4E8s&list=PLmwVUXLoN7y48IU8XgTbMgiC7gOaksOYX&index=6)
+- [Charger: EV chargers | Foundation to EV subsystems](https://www.youtube.com/watch?v=MDnwPqt4E8s&list=PLmwVUXLoN7y48IU8XgTbMgiC7gOaksOYX&index=6)
 
 # Important youtube Channels
 - [DecibelsLab](https://www.youtube.com/@DecibelsLab)
