@@ -27,6 +27,7 @@
  - [Battery Protection 5: Battery Management System Safety and Fault Management for Lithium Ion Batteries](https://www.youtube.com/watch?v=8eItvOuDRjw)
  - Battery Protection 6: Search for IMD (Insulation Monitoring Device)
  - Battery Protection 7: Search for Fuses and Circuit Breakers
+ - Battery Protection 8: Search for How to protect battery from battery leakage and vibrations
 
 ## Phase Five
 - [Cell MATLAP Model](https://drive.google.com/drive/u/0/folders/1m_nvFiPVZbcD2-nH_WNMUvZG3e-Vz_w5)
