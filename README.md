@@ -34,7 +34,12 @@
 
 ## Phase six
 - [Charger: EV chargers | Foundation to EV subsystems](https://www.youtube.com/watch?v=MDnwPqt4E8s&list=PLmwVUXLoN7y48IU8XgTbMgiC7gOaksOYX&index=6)
-
+## Phase Seven
+- [BMS Model: Mathworks Battery System ](https://www.mathworks.com/matlabcentral/fileexchange/72865-design-and-test-lithium-ion-battery-management-algorithms?s_tid=prof_contriblnk)
+- [ BMS Model: Estimating Parameters](https://www.youtube.com/watch?v=lZmdzV-9Wp0)
+- [BMS Model: Testing and validation 1](https://youtu.be/-y6dknbPZfk?si=B7bF3fuTOuwGSQUQ)
+- [BMS Model: Testing and validation 2](https://www.youtube.com/watch?v=-Cw67kBXxxk)
+- [BMS Model: BMS playlist](https://youtu.be/R9UK41vOIRo?si=CgKOlWmIBYEO6K8O)
 # Important youtube Channels
 - [DecibelsLab](https://www.youtube.com/@DecibelsLab)
 - [staflsystems](https://www.youtube.com/@staflsystems)
