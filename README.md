@@ -43,6 +43,9 @@
 - [BMS Model: BMS playlist](https://youtu.be/R9UK41vOIRo?si=CgKOlWmIBYEO6K8O)
 - [BMS Model: BMS in details](https://youtube.com/playlist?list=PLn8PRpmsu08rRLuiZrabKJLONShTop_hE&si=TQNbZUEEgqCAdjGV)
 - [DecibelsLab playlist](https://youtube.com/playlist?list=PL20XhIADt3XvQsmj7sep_eeXcb3g98Pgq&si=72G_-KaJt2kFrder)
+  ## Phase eight
+  -[Parameter Estimation of a DC Motor](https://www.youtube.com/watch?v=AUtfvXtz12Y&t=29s)
+  - [example](https://www.mathworks.com/help/sldo/ug/improving-optimization-performance-using-fast-restart-code.html?searchHighlight=spe_engine_throttle&s_tid=srchtitle_support_results_1_spe_engine_throttle)
 # Important youtube Channels
 - [DecibelsLab](https://www.youtube.com/@DecibelsLab)
 - [staflsystems](https://www.youtube.com/@staflsystems)
